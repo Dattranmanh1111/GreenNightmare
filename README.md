@@ -59,7 +59,7 @@ GreenNightmare/
 ## Cách Chạy Dự Án
 
 1. Clone project frontend:
-- git clone https://github.com/TuanHeiji/GreenNightmare.git
+- git clone https://github.com/Dattranmanh1111/GreenNightmare.git
 
 2. Cài Unity hub và chọn editor version: 6000.0.55f1
 
